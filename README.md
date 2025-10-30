@@ -36,11 +36,6 @@ I’m a self-taught **Offensive Security Researcher** and **Pentester** focused 
 - Responsible disclosure and reproducible research.  
 - Focused on clarity, impact, and technical depth.  
 
----
-
-#### 📫 Get in Touch
-- 💬 Discussions & collaborations: [GitHub Issues](https://github.com/yuki.xyz/yuki.xyz/issues)  
-- 🌐 More at: [info@yukixyz.xyz](https://github.com/yuki.xyz)
 
 ---
 
