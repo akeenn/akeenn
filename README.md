@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm <a href="https://yuki.xyz">Yuki.xyz!</a> 👋</h1>
+  <h1>Hi there, I'm <a href="https://yuki.xyz">akeenn!</a> 👋</h1>
   <img src="ff45a8a42b20bd7ee2182c10692f5b72.gif" width="600" />
 </div>
 
