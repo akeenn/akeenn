@@ -3,8 +3,6 @@
   <img src="ff45a8a42b20bd7ee2182c10692f5b72.gif" width="600" />
 </div>
 
-<a href="https://discord.gg/yukiwtf">
-  <img align="left" alt="Yuki's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>  
 
 <br />
