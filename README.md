@@ -2,9 +2,7 @@
   <h1>Hi there, I'm akeenn!</a> 👋</h1>
   <img src="ff45a8a42b20bd7ee2182c10692f5b72.gif" width="600" />
 </div>
-
 </a>  
-
 <br />
 <br />
 
